@@ -1,0 +1,13 @@
+//
+//  Config.xcconfig
+//  simulation
+//
+//  Created by U10916003 on 2023/10/15.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+
+Youtube_API_KEY = AIzaSyDsveoSeb4JVBk0sA87hrd4W2m5wjNEfSk
+Github_API_KEY = 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
